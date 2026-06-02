@@ -1,16 +1,16 @@
-## ```Hi, my name is Vinicius Gon```
-🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena.
+## ```Olá, meu nome é Vinicius Gonçalves```
+# Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena.
 
-💻 Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
+Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
 
-## 🚀 Sobre mim
+## Sobre mim
 
-* 🎯 Atualmente cursando Técnico em Desenvolvimento de Sistemas
-* 📚 Aprendendo e desenvolvendo projetos com diferentes tecnologias
-* 🔍 Interesse em Engenharia de Software, Programação e Sistemas Computacionais
-* 🤝 Sempre disposto a aprender, colaborar e compartilhar conhecimento
+* Atualmente cursando Técnico em Desenvolvimento de Sistemas
+*  Aprendendo e desenvolvendo projetos com diferentes tecnologias
+*  Interesse em Engenharia de Software, Programação e Sistemas Computacionais
+*  Sempre disposto a aprender, colaborar e compartilhar conhecimento
 
-## 🛠️ Tecnologias e Ferramentas em Aprendizado
+## Tecnologias e Ferramentas em Aprendizado
 
 * Python
 * Linux Ubuntu
@@ -20,7 +20,7 @@
 * Windows CMD
 * Git e GitHub
 
-## 📈 Habilidades
+## Habilidades
 
 * Autonomia
 * Gestão de Tempo
@@ -30,16 +30,16 @@
 * Organização
 * Aprendizado Contínuo
 
-## 📚 Formação
+## Formação
 
 **Técnico em Desenvolvimento de Sistemas**
 SESI-SENAI – Cruzeiro/Lorena
 
-## 💼 Objetivos
+## Objetivos
 
 Busco desenvolver minhas competências em programação e engenharia de software, participando de projetos que contribuam para minha formação profissional e me permitam adquirir experiência prática na área de tecnologia.
 
-## 📫 Contato
+## Contato
 
 * E-mail: lima20vinicius10@gmail.com
 * GitHub: Vinicius-limaz
