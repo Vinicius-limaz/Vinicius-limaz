@@ -1,7 +1,9 @@
 ## _Olá, meu nome é Vinicius Gonçalves_
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+[Seu+Nome]+👋;Técnico+em+Desenvolvimento+de+Sistemas;Python+%7C+Linux+Ubuntu+%7C+C%2B%2B;Arduino+%7C+Windows+CMD;Engenharia+de+Software;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+# Olá, eu sou Olá, meu nome é Vinicius Gonçalves 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Estudante+de+Desenvolvimento+de+Sistemas;Python;Linux+Ubuntu;Engenharia+de+Software;Arduino;C%2B%2B;Windows+CMD;Sempre+aprendendo+novas+tecnologias!" alt="Typing SVG" />
 
 </div>
 
