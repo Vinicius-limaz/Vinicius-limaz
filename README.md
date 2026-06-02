@@ -82,16 +82,6 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 SESI-SENAI – Cruzeiro/Lorena
 
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
-
-
-
 ## Objetivos
 
 Busco desenvolver minhas competências em programação e engenharia de software, participando de projetos que contribuam para minha formação profissional e me permitam adquirir experiência prática na área de tecnologia.
