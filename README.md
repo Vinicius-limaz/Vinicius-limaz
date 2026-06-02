@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=flat" />
 
 <div align="center">
 
@@ -10,12 +11,16 @@
 <div align="center">
   
 # _Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena._
-  
+
   </div>
-  
+
+  <div align="center">
+    
 Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
 
-## Um pouco sobre
+</div>
+
+## Sobre mim
 
 * Atualmente cursando Técnico em Desenvolvimento de Sistemas
 *  Aprendendo e desenvolvendo projetos com diferentes tecnologias
