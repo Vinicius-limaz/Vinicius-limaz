@@ -27,7 +27,7 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 <a href="https://www.python.org">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 </a>
-</p>
+
 
 
 
