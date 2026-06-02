@@ -1,4 +1,4 @@
-## Hi, my name is Vinicius Gonçalves.
+## _Hi, my name is Vinicius Gonçalves._
 
 <!--
 **Vinicius-limaz/Vinicius-limaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
