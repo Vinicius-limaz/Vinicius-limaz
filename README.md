@@ -1,7 +1,5 @@
 ## ~Hi, my name is Vinicius Gonçalves.~
 ## ```Hi, my name is Vinicius Gonçalves.```
-## *Hi, my name is Vinicius Gonçalves.*
-## _Hi, my name is Vinicius Gonçalves._
 
 
 
