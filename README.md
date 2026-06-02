@@ -1,9 +1,5 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500">
-</div>
-
-<div align="center">
 
 # Olá, meu nome é Vinicius Gonçalves  
 
@@ -67,7 +63,7 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 
 
 
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </div>
 
