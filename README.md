@@ -11,13 +11,13 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 
 ## Tecnologias e Ferramentas em Aprendizado
 
-* Python
-* Linux Ubuntu
-* Engenharia de Software
-* Arduino
-* C++
-* Windows CMD
-* Git e GitHub
+* Python✓
+* Linux Ubuntu✓
+* Engenharia de Software✓
+* Arduino✓
+* C++✓
+* Windows CMD✓
+* Git e GitHub✓
 
 ## Habilidades
 
