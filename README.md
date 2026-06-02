@@ -7,7 +7,9 @@
 
 </div>
 
+<div align="center">
 # _Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena._
+  </div>
 Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
 
 ## Um pouco sobre
