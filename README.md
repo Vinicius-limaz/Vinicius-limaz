@@ -1,11 +1,5 @@
 Olá, eu sou Olá, meu nome é Vinicius Gonçalves 
-<div align="center">
-
-# Olá, eu sou [Seu Nome] 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python;Linux+Ubuntu;Engenharia+de+Software;Arduino;C%2B%2B;Windows+CMD;Sempre+aprendendo+novas+tecnologias!" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=800&pause=300&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python;Linux+Ubuntu;Engenharia+de+Software;Arduino;C%2B%2B;Windows+CMD" alt="Typing SVG" />
 
 
 
