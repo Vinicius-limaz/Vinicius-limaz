@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
 
 <div align="center">
 
