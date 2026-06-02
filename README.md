@@ -1,4 +1,4 @@
-## _'''Hi, my name is Vinicius Gonçalves.'''_
+## '''Hi, my name is Vinicius Gonçalves.'''
 
 <!--
 **Vinicius-limaz/Vinicius-limaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
