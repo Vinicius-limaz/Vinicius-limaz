@@ -1,4 +1,4 @@
-## _Olá, meu nome é Vinicius Gonçalves_℆
+## _Olá, meu nome é Vinicius Gonçalves℆_
 # _Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena._
 Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
 
