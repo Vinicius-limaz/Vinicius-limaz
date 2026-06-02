@@ -20,10 +20,7 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 </div>
 
 ## Sobre mim
-Atualmente cursando Técnico em Desenvolvimento de Sistemas
-  Aprendendo e desenvolvendo projetos com diferentes tecnologias
-  Interesse em Engenharia de Software, Programação e Sistemas Computacionais
-  Sempre disposto a aprender, colaborar e compartilhar conhecimento
+Atualmente cursando Técnico em Desenvolvimento de Sistemas, Aprendendo e desenvolvendo projetos com diferentes tecnologias com interesse em Engenharia de Software, Programação e Sistemas Computacionais e sempre disposto a aprender e colaborar 
 
 
 ## Objetivos
