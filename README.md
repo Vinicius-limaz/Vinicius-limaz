@@ -63,11 +63,6 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 
 
 
-<div align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-</div>
-
-
 ## Habilidades
 
 * Autonomia
