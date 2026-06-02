@@ -26,7 +26,12 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 *  Interesse em Engenharia de Software, Programação e Sistemas Computacionais
 *  Sempre disposto a aprender, colaborar e compartilhar conhecimento
 
+
+## Objetivos
+
+Busco desenvolver minhas competências em programação e engenharia de software, participando de projetos que contribuam para minha formação profissional e me permitam adquirir experiência prática na área de tecnologia.
 ## Tecnologias e Ferramentas em Aprendizado
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -78,10 +83,6 @@ Tenho interesse em desenvolvimento de software, programação, automação e tec
 **Técnico em Desenvolvimento de Sistemas**
 SESI-SENAI – Cruzeiro/Lorena
 
-
-## Objetivos
-
-Busco desenvolver minhas competências em programação e engenharia de software, participando de projetos que contribuam para minha formação profissional e me permitam adquirir experiência prática na área de tecnologia.
 
 ## Contato
 
