@@ -1,5 +1,4 @@
-## ~Hi, my name is Vinicius Gonçalves.~
-## ```Hi, my name is Vinicius Gon
+## ```Hi, my name is Vinicius Gon```
 🎓 Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena.
 
 💻 Tenho interesse em desenvolvimento de software, programação, automação e tecnologia. Estou constantemente buscando novos conhecimentos e desafios para aprimorar minhas habilidades técnicas e profissionais.
