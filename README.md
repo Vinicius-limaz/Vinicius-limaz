@@ -1,4 +1,4 @@
-## _Olá, meu nome é Vinicius Gonçalves_
+
 <div align="center">
 
 # Olá, eu sou Olá, meu nome é Vinicius Gonçalves 👋
